@@ -3,7 +3,7 @@
 pkgname=hcp-bin
 pkgver=0.7.0
 pkgrel=1
-pkgdesc="The hcp CLI lets you administer HashiCorp Cloud Platform (HCP) resources and services."
+pkgdesc="Lets you administer HashiCorp Cloud Platform (HCP) resources and services."
 # arm64, amd64, and something called 386?
 arch=('x86_64' 'aarch64')
 url="https://github.com/hashicorp/hcp"
